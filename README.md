@@ -124,14 +124,6 @@ It demonstrates strong foundational skills required for **Data Analyst and Busin
 
 ---
 
-## How to Use This Repository
-
-* Review SQL queries to understand problem-solving approach
-* Use the dataset to practice SQL joins and analytical queries
-* Extend the project by creating dashboards using Power BI or Tableau
-
----
-
 ## Author
 
 **Kuldeep Vishwakarma**
